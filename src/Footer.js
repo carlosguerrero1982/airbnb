@@ -4,7 +4,8 @@ import './Footer.css';
 function Footer() {
     return (
         <div className="footer">
-            <h1>FOOTER</h1>
+           <p>2020 Airbnb. No rights reserved</p>
+           <p>Privacy . Terms . Sitemap . Company Details</p>
         </div>
     )
 }
