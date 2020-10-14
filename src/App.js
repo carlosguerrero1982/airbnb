@@ -19,7 +19,7 @@ function App() {
           <Route path="/search">
             <SearchPage />
           </Route>
-          <Route path="/">
+          <Route  path="/">
             <Home />
           </Route>
         </Switch>
